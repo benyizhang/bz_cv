@@ -1,3 +1,7 @@
+@import "{{ site.theme }}";
+.markdown-body {
+  font-family: 'Times New Roman', Times, serif;
+}
 
 # Your Name
 Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
