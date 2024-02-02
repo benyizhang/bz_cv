@@ -14,7 +14,7 @@ Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.g
 ## Experience
 **Company Name** (Dates)   
 Job Title
-- Accomplishment 1
+- [Accomplishment 1](you link)
 - Accomplishment 2  
 
 **Company Name** (Dates)
