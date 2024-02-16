@@ -1,13 +1,15 @@
-@import "{{ site.theme }}";
-.markdown-body {
-  font-family: 'Times New Roman', Times, serif;
-}
-
-# Your Name
-Software Engineer | Portfolio: [yourportfolio.github.io](https://yourportfolio.github.io)
+# Binyi Zhang
+PhD candicate at Charles University | Portfolio: [Faculty Email](https://ies.fsv.cuni.cz/en/contacts/institute-members/69674391)
 
 ## Summary
-1-2 sentences summarizing your professional experience and expertise
+I am currently pursuing my PhD at the Institute of Economic Studies, Charles University, where I am specializing in the field of green finance. 
+
+My research primarily revolves around two key areas of study: 
+
+- Green finance
+- Financial market: stock, bond pricing
+- Credit rating
+- 
 
 ## Skills
 - Programming Languages: Python, JavaScript, etc 
