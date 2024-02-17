@@ -34,8 +34,8 @@ additional_links:
 # gtag: "UA-00000000-0"
 # google_analytics: "UA-00000000-0"
 
-About Section
-about_title: About Me
+# About Section
+# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 I am currently pursuing my PhD at the Institute of Economic Studies, Charles University, where I am specializing in the field of green finance.
