@@ -83,8 +83,6 @@ content:
             - Data visualization: using <mark> Tableau </mark>  
             - Data analytics and reporting
 
-    content:
-      - layout: left
         title: Charles University  
         link: https://www.mckinsey.com/
         # link_text: boringcompany.com
@@ -92,9 +90,7 @@ content:
         caption: September 2018 - Present
         description: | # this will include new lines to allow paragraphs
             Job responsibility:
-            
-    content:
-      - layout: left
+
         title: 4C Offshore 
         link: https://www.mckinsey.com/
         # link_text: boringcompany.com
