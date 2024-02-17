@@ -103,8 +103,6 @@ content:
           - IBM Note and Microsoft Access Data Entry.
           
   - title: Education history # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
     - layout: text
     content: | # this will include new lines to allow paragraphs
     - Charles University:
