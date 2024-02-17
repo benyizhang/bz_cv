@@ -71,7 +71,7 @@ content:
     layout: list
     content:
       - layout: left
-        title: "McKinsey & Company, Prague"
+        title: "McKinsey & Company"
         link: "https://www.mckinsey.com/"
         sub_title: "Data Analytics"
         caption: "July 2022 - Present"
