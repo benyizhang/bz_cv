@@ -163,8 +163,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Publications with impact factors:
-      - Janda, K., Kocenda, E, Kortusova, A and Zhang, B (2022). Estimation of Green Bond Premiums in the Chinese Secondary Market. Politická Ekonomie, 2022, 70 (6)
-      - Janda, K., Kristoufek, L. and Zhang, B., (2022). Return and volatility spillovers between Chinese and US clean energy related stocks. Energy Economics, p.105911.
+      - Janda, K., Kocenda, E, Kortusova, A and Zhang, B (2022). Estimation of Green Bond Premiums in the Chinese Secondary Market. Politická Ekonomie, 2022, 70 (6). [Access here](https://doi.org/10.1016/j.eneco.2022.105911)
+      - Janda, K., Kristoufek, L. and Zhang, B., (2022). Return and volatility spillovers between Chinese and US clean energy related stocks. Energy Economics, p.105911. [Access here](https://polek.vse.cz/artkey/pol-202206-0003_estimation-of-green-bond-premiums-on-the-chinese-secondary-market.php?back=%2Fjel.php)
 
 # Footer
 footer_show_references: true
