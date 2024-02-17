@@ -76,7 +76,6 @@ content:
         sub_title: "Data Analytics"
         caption: "July 2022 - Present"
         description: |
-          My daily work at McKinsey involves the following aspects:
           - Creating Tableau dashboards and interactive visualisation reflecting product and service performance at the firm level.
           - Applying advanced analytics tools and empirical methods to run data analysis using R, Python, SQL.
           - Data and analytic support and reporting to product and service teams to gain better access and insights from their data.
@@ -98,6 +97,7 @@ content:
         sub_title: "Consumer Insight Analysts"
         caption: "January 2018 - June 2018"
         description: |
+
           - Consumer-based market information research and data analysis.
           - Targeting the potential market segmentations based on consumer behaviours and product characteristics. - Customising solutions and supersessions for market promotions to enhance clients’ strategic marketing development and market competitiveness in Chinese Market.
           - Customising marketing strategies and communication methods to assist clients in achieving its business objective effectively.
@@ -109,6 +109,7 @@ content:
         sub_title: "Market Analysts"
         caption: "June 2016 - July 2017"
         description: |
+        
           - Fundamental market research about the Chinese renewable energy market
           - Responsible for building long-term customer relationships via telephone communications and E-mail.
           - Estimating the industrial growth of Chinese offshore wind power based on given private databases
