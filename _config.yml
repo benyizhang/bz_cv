@@ -35,7 +35,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profit_photo.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently pursuing my Ph.D. at the Institute of Economic Studies, Charles University, where my research interest is in the fields of renewable energy, green finance, climate change, and credit rating.  I am fluent in Chinese, and English and actively developing my language skills in Slovak.
   
@@ -43,6 +43,7 @@ about_content: | # this will include new lines to allow paragraphs
   - Green finance
   - Credit rating
   - Financial market analysis: stock, bong pricing
+  - This is a test 
 
   The coding knowledge I am most familar with are: <mark>R</mark>, <mark>Stata</mark>, and <mark>snowflake SQL</mark>.
 
