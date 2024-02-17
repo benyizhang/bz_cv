@@ -109,11 +109,11 @@ content:
         sub_title: "Market Analysts"
         caption: "June 2016 - July 2017"
         description: |
-        - Fundamental market research about the Chinese renewable energy market
-        - Responsible for building long-term customer relationships via telephone communications and E-mail.
-        - Estimating the industrial growth of Chinese offshore wind power based on given private databases
-        - Document preparations for updating industrial reports about the Chinese offshore wind farm market.
-        - IBM Note and Microsoft Access Data Entry
+          - Fundamental market research about the Chinese renewable energy market
+          - Responsible for building long-term customer relationships via telephone communications and E-mail.
+          - Estimating the industrial growth of Chinese offshore wind power based on given private databases
+          - Document preparations for updating industrial reports about the Chinese offshore wind farm market.
+          - IBM Note and Microsoft Access Data Entry
           
   - title: Education history # Title for the section
     layout: list # Type of content section (list/text)
