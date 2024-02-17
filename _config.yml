@@ -83,23 +83,6 @@ content:
             - Data visualization: using <mark> Tableau </mark>  
             - Data analytics and reporting
 
-        title: Charles University  
-        link: https://www.mckinsey.com/
-        # link_text: boringcompany.com
-        sub_title: Teaching Assistant
-        caption: September 2018 - Present
-        description: | # this will include new lines to allow paragraphs
-            Job responsibility:
-
-        title: 4C Offshore 
-        link: https://www.mckinsey.com/
-        # link_text: boringcompany.com
-        sub_title: Data Analyst
-        caption: July 2022 - Present
-        description: | # this will include new lines to allow paragraphs
-            My daily work at McKinsey invloves in following aspects:
-
-
   - title: Education history # Title for the section
     layout: list # Type of content section (list/text)
     content:
