@@ -83,6 +83,7 @@ content:
             - Data visualization: using <mark> Tableau </mark>  
             - Data analytics and reporting
 
+    content:
       - layout: left
         title: Charles University  
         link: https://www.mckinsey.com/
@@ -92,6 +93,7 @@ content:
         description: | # this will include new lines to allow paragraphs
             Job responsibility:
             
+    content:
       - layout: left
         title: 4C Offshore 
         link: https://www.mckinsey.com/
