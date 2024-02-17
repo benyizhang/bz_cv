@@ -10,15 +10,6 @@ name: Binyi Zhang
 title: PhD candidate / Data Analytics
 email: binyizhang@outlook.com
 
-# an
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
-  Blog: "/blog"  # This is the new additio
-
 # Dark Mode (true/false/never)
 darkmode: false
 
