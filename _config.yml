@@ -39,14 +39,16 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am currently pursuing my Ph.D. at the Institute of Economic Studies, Charles University, where my research interest is in the fields of renewable energy, green finance, climate change, and credit rating.  I am fluent in Chinese, and English and actively developing my language skills in Czech.
+  
   My research primarily revolves around two key areas of study:
   - Green finance
   - Credit rating
   - Financial market analysis: stock, bong pricing
+  The coding knowledge I am most familar with are: <mark>R</mark>, <mark>Stata</mark>, <mark>snowflake SQL<mark>.
+
   I am fluent in Chinese, English and actively developing my language skills in Czech.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
