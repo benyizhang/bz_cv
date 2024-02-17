@@ -82,6 +82,16 @@ content:
             - Data clean: using <mark> Snowflake SQL </mark>, <mark> R </mark> and <mark> Python </mark> 
             - Data visualization: using <mark> Tableau </mark>  
             - Data analytics and reporting
+      - layout: left # Add another job experience in the same format
+      title: [Company Name] # Replace with the actual company name
+      link: [Company Website URL] # Replace with the actual company URL
+      sub_title: [Your Role] # Replace with your role at the company
+      caption: [Start Date - End Date] # Replace with the dates of your employment
+      description: |
+        Briefly describe your responsibilities and achievements at this position:
+        - Task or responsibility 1
+        - Task or responsibility 2
+        - Additional details about your role
 
   - title: Education history # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,9 +107,9 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
-        title: Institute of Economic Studies, Charles University
-        caption: 2018-Present
-        sub_title: PhD candiate in Economics
+        title: University of East Anglia
+        caption: 2016-2017
+        sub_title: Msc.in Economics 
         quote: >
           Probably, this the longset jounrey I have been through my entire life. Life is endless fight. 
         description: | # this will include new lines to allow paragraphs
