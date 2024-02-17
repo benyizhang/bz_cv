@@ -42,18 +42,18 @@ about_content: | # this will include new lines to allow paragraphs
   My research primarily revolves around two key areas of study:
   - Green finance
   - Credit rating
-  - Financial market analysis: stock, bong pricing
+  - Financial market analysis: stock, bond pricing
 
   The coding knowledge I am most familar with are: <mark>R</mark>, <mark>Stata</mark>, and <mark>snowflake SQL</mark>.
 
   
 content:
-  - title: Projects # Title for the section
+  - title: Academic Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Geopolitical risk index
+        link: 
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -63,9 +63,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          This project aims to assess the role of geopolitical risk index in determining the downgrade risk of corporate bond. 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Some descriptions here: 
+          
 
   - title: Woking Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -80,11 +81,40 @@ content:
             My daily work at McKinsey invloves in following aspects:
             - Data clean: using <mark> Snowflake SQL </mark>, <mark> R </mark> and <mark> Python </mark> 
             - Data visualization: using <mark> Tableau </mark>  
-            - Data analytics and reporting:
+            - Data analytics and reporting
+      - layout: left
+        title: Charles University  
+        link: https://www.mckinsey.com/
+        # link_text: boringcompany.com
+        sub_title: Teaching Assistant
+        caption: September 2018 - Present
+        description: | # this will include new lines to allow paragraphs
+            Job responsibility:
+        
+        - layout: left
+        title: 4C Offshore 
+        link: https://www.mckinsey.com/
+        # link_text: boringcompany.com
+        sub_title: Data Analyst
+        caption: July 2022 - Present
+        description: | # this will include new lines to allow paragraphs
+            My daily work at McKinsey invloves in following aspects:
+
 
   - title: Education history # Title for the section
     layout: list # Type of content section (list/text)
     content:
+      - layout: left
+        title: Institute of Economic Studies, Charles University
+        caption: 2018-Present
+        sub_title: PhD candiate in Economics
+        quote: >
+          Probably, this the longset jounrey I have been through my entire life. Life is endless fight. 
+        description: | # this will include new lines to allow paragraphs
+          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      content:
       - layout: left
         title: Institute of Economic Studies, Charles University
         caption: 2018-Present
