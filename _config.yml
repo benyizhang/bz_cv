@@ -71,28 +71,29 @@ content:
   - title: Woking Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+  - title: Working Experience
+    layout: list
+    content:
       - layout: left
-        title: McKinsey & Company 
-        link: https://www.mckinsey.com/
-        # link_text: boringcompany.com
-        sub_title: Data Analytics
-        caption: July 2022 - Present
-        description: | # this will include new lines to allow paragraphs
-            My daily work at McKinsey invloves in following aspects:
-            - Data clean: using <mark> Snowflake SQL </mark>, <mark> R </mark> and <mark> Python </mark> 
-            - Data visualization: using <mark> Tableau </mark>  
-            - Data analytics and reporting
-            
-      - layout: left # Add another job experience in the same format
-      title: [Company Name] # Replace with the actual company name
-      link: [Company Website URL] # Replace with the actual company URL
-      sub_title: [Your Role] # Replace with your role at the company
-      caption: [Start Date - End Date] # Replace with the dates of your employment
-      description: |
-        Briefly describe your responsibilities and achievements at this position:
-        - Task or responsibility 1
-        - Task or responsibility 2
-        - Additional details about your role
+        title: "McKinsey & Company"
+        link: "https://www.mckinsey.com/"
+        sub_title: "Data Analytics"
+        caption: "July 2022 - Present"
+        description: |
+          My daily work at McKinsey involves the following aspects:
+          - Data clean: using Snowflake SQL, R, and Python
+          - Data visualization: using Tableau
+          - Data analytics and reporting
+
+      - layout: left  # This dash is crucial; it signifies a new item in the list
+        title: "Another Company Name"
+        link: "https://example.com/"
+        sub_title: "Your Role at Another Company"
+        caption: "Start Date - End Date at Another Company"
+        description: |
+          Brief description of your responsibilities and achievements:
+          - Task or responsibility 1 at Another Company
+          - Task or responsibility 2 at Another Company
 
   - title: Education history # Title for the section
     layout: list # Type of content section (list/text)
