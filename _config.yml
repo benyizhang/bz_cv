@@ -102,13 +102,15 @@ content:
           - Data analysis and result reporting on regular base. 
           - IBM Note and Microsoft Access Data Entry.
           
-  - title: Education history # Title for the section
+  - title: Working papers 
     layout: text
     content: | # this will include new lines to allow paragraphs
-    - Charles University:
-    - University of Easy Anglia:
-      - Bsc
-      - Msc
+      Research work published at working paper: 
+      - Janda K., Zhang B. (2019): "Renewable Energy Financial Modelling: A China Case Study", IES Working Papers 7/2019. IES FSV. Charles University.
+      - Janda K., Zhang B. (2020). “The impact of renewable energy and technology innovation on Chinese carbon dioxide emissions”. FFA Working Paper 3/2020, FFA, University of Economics, Prague. • Janda K, Kortusova A, Zhang B (2022): "Green Bond Premiums in the Chinese Secondary Market", IES Working Papers 20/2022. IES FSV. Charles University.
+      - Janda, K., Kortusova, A., and Zhang, B. (2022). "Estimation of green bond premiums in the Chinese secondary market", CAMA Working Papers 2022-38, Centre for Applied Macroeconomic Analysis, Crawford School of Public Policy, The Australian National University.
+      - Janda, K., Kristoufek, L. and Zhang, B. (2022). “Return and volatility spillovers between Chinese and U.S. Clean Energy Related Stocks: Evidence from VAR-MGARCH estimations”, FFA Working Papers, 4, 2022.001.
+      - Janda, K., Kristoufek, L. and Zhang, B. (2022)."Return and volatility spillovers between Chinese and US clean energy related stocks," CAMA Working Papers 2022-17, Centre for Applied Macroeconomic Analysis, Crawford School of Public Policy, The Australian National University.
 
   - title: Working papers 
     layout: text
