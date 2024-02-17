@@ -39,11 +39,10 @@ about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 I am currently pursuing my PhD at the Institute of Economic Studies, Charles University, where I am specializing in the field of green finance.
----
-My research primarily revolves around two key areas of study:
+My research primarily revolves around two key areas of study
 - Green finance
 - Credit rating
-...
+
 I am fluent in Chinese, English and actively developing my language skills in Czech.
 
   I am most skilled in: <mark>R</mark>, <mark>Stata</mark>
