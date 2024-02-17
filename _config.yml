@@ -71,46 +71,50 @@ content:
     layout: list
     content:
       - layout: left
-        title: "McKinsey & Company"
+        title: "McKinsey & Company, Prague"
         link: "https://www.mckinsey.com/"
         sub_title: "Data Analytics"
         caption: "July 2022 - Present"
         description: |
           My daily work at McKinsey involves the following aspects:
-          - Data clean: using Snowflake SQL, R, and Python
-          - Data visualization: using Tableau
-          - Data analytics and reporting
+          - Creating Tableau dashboards and interactive visualisation reflecting product and service performance at the firm level.
+          - Applying advanced analytics tools and empirical methods to run data analysis using R, Python, SQL.
+          - Data and analytic support and reporting to product and service teams to gain better access and insights from their data.
 
       - layout: left  # This dash is crucial; it signifies a new item in the list
-        title: "Another Company Name"
-        link: "https://example.com/"
-        sub_title: "Your Role at Another Company"
-        caption: "Start Date - End Date at Another Company"
+        title: "Charles University"
+        link: "https://ies.fsv.cuni.cz/"
+        sub_title: "Teaching Assistant"
+        caption: "September, 2018 - Present"
         description: |
-          Brief description of your responsibilities and achievements:
-          - Task or responsibility 1 at Another Company
-          - Task or responsibility 2 at Another Company
+          - Overseeing the design and devilry of seminar teaching materials.
+          - Delivering weekly seminars.
+          - Setting and grading student assignments.
+          - Ensuring the maintenance of learning materials (Textbook, seminar slides, and suggested solutions) on the online learning environment site.
 
       - layout: left  # This dash is crucial; it signifies a new item in the list
-        title: "Another Company Name"
-        link: "https://example.com/"
-        sub_title: "Your Role at Another Company"
-        caption: "Start Date - End Date at Another Company"
+        title: "Marcpoint Technology Ltd"
+        link: "https://www.marcpoint.com/"
+        sub_title: "Consumer Insight Analysts"
+        caption: "January 2018 - June 2018"
         description: |
-          Brief description of your responsibilities and achievements:
-          - Task or responsibility 1 at Another Company
-          - Task or responsibility 2 at Another Company
+          - Consumer-based market information research and data analysis.
+          - Targeting the potential market segmentations based on consumer behaviours and product characteristics. - Customising solutions and supersessions for market promotions to enhance clients’ strategic marketing development and market competitiveness in Chinese Market.
+          - Customising marketing strategies and communication methods to assist clients in achieving its business objective effectively.
+          - Hive based data analysis using SQL and Python. 
 
       - layout: left  # This dash is crucial; it signifies a new item in the list
-        title: "Another Company Name"
-        link: "https://example.com/"
-        sub_title: "Your Role at Another Company"
-        caption: "Start Date - End Date at Another Company"
+        title: "4C Offshore Ltd"
+        link: "https://www.4coffshore.com/"
+        sub_title: "Market Analysts"
+        caption: "June 2016 - July 2017"
         description: |
-          Brief description of your responsibilities and achievements:
-          - Task or responsibility 1 at Another Company
-          - Task or responsibility 2 at Another Company
-
+        - Fundamental market research about the Chinese renewable energy market
+        - Responsible for building long-term customer relationships via telephone communications and E-mail.
+        - Estimating the industrial growth of Chinese offshore wind power based on given private databases
+        - Document preparations for updating industrial reports about the Chinese offshore wind farm market.
+        - IBM Note and Microsoft Access Data Entry
+          
   - title: Education history # Title for the section
     layout: list # Type of content section (list/text)
     content:
