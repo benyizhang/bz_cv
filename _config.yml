@@ -101,14 +101,17 @@ content:
           - IBM Note and Microsoft Access Data Entry.
           
   - title: Education history 
-    layout: text
-    sub_title: "Market Analysts"
-    content: | # this will include new lines to allow paragraphs
-      - Institute of Economic Studies, Faculty of Social Sciences, Charles University
-        - September 2018 - Present: PhD Candidate in Economics
-      - University of East Anglia
-        - September 2013 - July 2016: BSc. Business Finance and Economcis
-        - September 2016 - September 2017: MSc. Economics
+    layout:  list
+    content:
+      - layout: text
+        title: "McKinsey & Company"
+        link: "https://www.mckinsey.com/"
+        sub_title: "Data Analytics"
+        caption: "July 2022 - Present"
+        description: |
+          - Creating Tableau dashboards and interactive visualisation reflecting product and service performance at the firm level.
+          - Applying advanced analytics tools and empirical methods to run data analysis using R, Python, SQL.
+          - Data analysis and reporting to product and service teams to gain better access and insights from their data.
 
   - title: Working papers 
     layout: text
