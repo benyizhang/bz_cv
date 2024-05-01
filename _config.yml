@@ -49,9 +49,6 @@ about_content: | # this will include new lines to allow paragraphs
   - Data visualisation and reporting using <mark>Tableau</mark>
   - Econometric analysis using <mark>R</mark>, <mark>Python</mark> and <mark>Stata</mark> 
 
-  
-
-  
 content:
   - title: Working Experience
     layout: list
@@ -62,9 +59,11 @@ content:
         sub_title: "Data Analytics"
         caption: "July 2022 - Present"
         description: |
-          - Creating Tableau dashboards and interactive visualisation reflecting product and service performance at the firm level.
-          - Applying advanced analytics tools and empirical methods to run data analysis using R, Python, SQL.
-          - Data analysis and reporting to product and service teams to gain better access and insights from their data.
+          - Designed and implemented Tableau dashboards to provide interactive visualizations, showcasing product and service performance metrics across the organization.
+          - Employed a suite of advanced analytics tools and empirical methodologies for comprehensive data analysis, utilizing R, Python, and Snowflake SQL to derive actionable insights.
+          - Offered analytic support to the product and service teams by translating large amounts of data into business insights, enhancing their data access and insight generation capabilities, thus facilitating informed decision-making processes.
+          - Spearheaded the development of predictive analytics models to forecast trends and performance, enabling proactive decision-making and strategic planning across various departments.
+
 
       - layout: left  # This dash is crucial; it signifies a new item in the list
         title: "Charles University"
