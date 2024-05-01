@@ -47,7 +47,8 @@ about_content: | # this will include new lines to allow paragraphs
   The tech stack I am most familar with are: 
   - Data modeling using <mark>Snowflake SQL</mark>
   - Data visualisation and reporting using <mark>Tableau</mark>
-  - Econometric analysis using <mark>R</mark>, <mark>Python</mark> and <mark>Stata</mark> 
+  - Econometric analysis using <mark>R</mark> and <mark>Stata</mark>
+  - I am actively progressing myself with skills in <mark>Python</mark> 
 
 content:
   - title: Working Experience
