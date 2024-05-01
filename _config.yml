@@ -102,6 +102,7 @@ content:
           
   - title: Education history 
     layout: text
+    sub_title: "Market Analysts"
     content: | # this will include new lines to allow paragraphs
       - Institute of Economic Studies, Faculty of Social Sciences, Charles University
         - September 2018 - Present: PhD Candidate in Economics
