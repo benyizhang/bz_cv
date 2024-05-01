@@ -101,6 +101,7 @@ content:
           - IBM Note and Microsoft Access Data Entry.
           
   - title: Education history 
+    layout: text 
       - content: | # this will include new lines to allow paragraphs
       - **Institute of Economic Studies, Faculty of Social Sciences, Charles University**
       - Institute of Economic Studies, Faculty of Social Sciences, Charles University
